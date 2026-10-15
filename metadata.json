@@ -1,0 +1,6 @@
+{
+  "name": "MoggaCon - Simulados Gratuitos para Provas Nacionais",
+  "description": "Plataforma pública e gratuita de simulados de alta fidelidade para ENEM, Vestibulares de Elite, Olimpíadas Científicas e Concursos Públicos com cálculo oficial TRI e gabarito comentado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
